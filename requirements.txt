@@ -1,0 +1,7 @@
+Flask==2.0.1
+eventlet==0.31.1
+numpy==1.21.0
+opencv-python==4.5.3.56
+easyocr==1.4.1
+imutils==0.5.4
+flask-cors
